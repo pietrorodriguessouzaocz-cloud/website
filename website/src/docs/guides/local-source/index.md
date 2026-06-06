@@ -1,5 +1,5 @@
 ---
-title: Local source
+title:
 titleTemplate: Guides
 description: For users who would like to download and organize their own media.
 ---
@@ -14,7 +14,7 @@ This page explores some advanced features.
 
 ## Creating local series
 
-1. In the location you specified as your storage location (e.g., `/Mihon/`), there should be a `local` folder. Place correctly structured series inside that (e.g. `/Mihon/local/`).
+1. In the location you specified as your storage location (e.g., `/Mihon/`), there should be a `local` folder.Internal Storage/Mihon/ Place correctly structured series inside that (e.g. `/Mihon/local/`).
 
     > If adding series in folders it is recommended to add a file named `.nomedia` to the local folder so images do not show up in the gallery.
 
